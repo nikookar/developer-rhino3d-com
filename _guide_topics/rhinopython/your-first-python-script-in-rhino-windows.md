@@ -60,7 +60,7 @@ In Python the functions definitions need to come before being called in the code
 
 #### Testing HelloWorld
 
-- At the command prompt, type EditScript and press Enter.
+- At the command prompt, type EditPythonScript and press Enter.
 - The Edit Script dialog box appears.
 - In the script Code window, type
 
